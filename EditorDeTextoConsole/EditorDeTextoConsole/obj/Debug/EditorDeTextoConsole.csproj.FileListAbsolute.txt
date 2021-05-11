@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EditorDeTextoConsole\EditorDeTextoConsole\bin\Debug\EditorDeTextoConsole.exe.config
+C:\Users\User\source\repos\EditorDeTextoConsole\EditorDeTextoConsole\bin\Debug\EditorDeTextoConsole.exe
+C:\Users\User\source\repos\EditorDeTextoConsole\EditorDeTextoConsole\bin\Debug\EditorDeTextoConsole.pdb
+C:\Users\User\source\repos\EditorDeTextoConsole\EditorDeTextoConsole\obj\Debug\EditorDeTextoConsole.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EditorDeTextoConsole\EditorDeTextoConsole\obj\Debug\EditorDeTextoConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EditorDeTextoConsole\EditorDeTextoConsole\obj\Debug\EditorDeTextoConsole.exe
+C:\Users\User\source\repos\EditorDeTextoConsole\EditorDeTextoConsole\obj\Debug\EditorDeTextoConsole.pdb

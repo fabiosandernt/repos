@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Banco01\Banco01\bin\Debug\Banco01.exe.config
+C:\Users\User\source\repos\Banco01\Banco01\bin\Debug\Banco01.exe
+C:\Users\User\source\repos\Banco01\Banco01\bin\Debug\Banco01.pdb
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.Form1.resources
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.Properties.Resources.resources
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.exe
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.pdb
+C:\Users\User\source\repos\Banco01\Banco01\bin\Debug\Banco01.exe.manifest
+C:\Users\User\source\repos\Banco01\Banco01\bin\Debug\Banco01.application
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.exe.manifest
+C:\Users\User\source\repos\Banco01\Banco01\obj\Debug\Banco01.application

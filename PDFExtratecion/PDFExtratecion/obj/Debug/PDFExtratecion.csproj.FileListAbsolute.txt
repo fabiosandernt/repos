@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\bin\Debug\PDFExtratecion.exe.config
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\bin\Debug\PDFExtratecion.exe
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\bin\Debug\PDFExtratecion.pdb
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\bin\Debug\itextsharp.dll
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\obj\Debug\PDFExtratecion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\obj\Debug\PDFExtratecion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\obj\Debug\PDFExtratecion.csproj.CopyComplete
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\obj\Debug\PDFExtratecion.exe
+C:\Users\User\source\repos\PDFExtratecion\PDFExtratecion\obj\Debug\PDFExtratecion.pdb
